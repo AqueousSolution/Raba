@@ -26,10 +26,10 @@ class Login extends Component {
             Back
           </nav>
 
-          <div class="centered">
+          <div className="centered">
             <h1 className="mainheader">Log-In To Your Account</h1>
             <h1 className="header">Log In </h1>
-            <div class="loginbox">
+            <div className="loginbox">
               <form onSubmit={this.handleSubmit}>
                 <p>Login</p>
                 <input
@@ -49,7 +49,9 @@ class Login extends Component {
                     this.setState({ password: event.target.value })
                   }
                 />
-                <a href="#">Forgotten Password?</a>
+                <a className="forgotten" href="#">
+                  Forgotten Password?
+                </a>
 
                 <br />
                 <br />

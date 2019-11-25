@@ -307,6 +307,8 @@ button.google {
   font-size: 12px;
   line-height: 20px;
   color: darkgray;
+  float: right;
+  margin-top: 5px;
 }
 
 .loginbox a:hover {
