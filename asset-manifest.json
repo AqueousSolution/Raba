@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Raba/static/css/main.109884df.chunk.css",
+    "main.js": "/Raba/static/js/main.32cca91e.chunk.js",
+    "main.js.map": "/Raba/static/js/main.32cca91e.chunk.js.map",
+    "runtime-main.js": "/Raba/static/js/runtime-main.41eea883.js",
+    "runtime-main.js.map": "/Raba/static/js/runtime-main.41eea883.js.map",
+    "static/js/2.00b0e63a.chunk.js": "/Raba/static/js/2.00b0e63a.chunk.js",
+    "static/js/2.00b0e63a.chunk.js.map": "/Raba/static/js/2.00b0e63a.chunk.js.map",
+    "index.html": "/Raba/index.html",
+    "precache-manifest.733694e9c5918a80d8079889dacd18bb.js": "/Raba/precache-manifest.733694e9c5918a80d8079889dacd18bb.js",
+    "service-worker.js": "/Raba/service-worker.js",
+    "static/css/main.109884df.chunk.css.map": "/Raba/static/css/main.109884df.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41eea883.js",
+    "static/js/2.00b0e63a.chunk.js",
+    "static/css/main.109884df.chunk.css",
+    "static/js/main.32cca91e.chunk.js"
+  ]
+}
