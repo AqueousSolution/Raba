@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import SignedIn from "../Navigation/SignedIn";
 
 class Dashboard extends Component {
   constructor(props) {
@@ -8,6 +9,7 @@ class Dashboard extends Component {
   render() {
     return (
       <div>
+        {/* <SignedIn /> */}
         <div className="toprow">
           <div className="streamgraph">
             <h1>Streaming Graph</h1>

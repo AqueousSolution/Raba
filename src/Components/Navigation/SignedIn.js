@@ -6,24 +6,34 @@ class SignedIn extends Component {
   };
   render() {
     return (
-      <header>
+      <header className="signedIn">
         <img className="logo" src="images/logo.png" alt=" raba logo" />
         <nav className="container">
           <ul className="navlinks">
-            <li>
-              <a href="#">Overview</a>
+            <li className="signedInLinks">
+              <a className="signedInLinks" href="#">
+                Overview
+              </a>
             </li>
             <li>
-              <a href="#">Analytics</a>
+              <a className="signedInLinks" href="#">
+                Analytics
+              </a>
             </li>
             <li>
-              <a href="#">Catalog</a>
+              <a className="signedInLinks" href="#">
+                Catalog
+              </a>
             </li>
             <li>
-              <a href="#">Pricing</a>
+              <a className="signedInLinks" href="#">
+                Pricing
+              </a>
             </li>
             <li>
-              <a href="#">Transactions</a>
+              <a className="signedInLinks" href="#">
+                Transactions
+              </a>
             </li>
           </ul>
         </nav>
