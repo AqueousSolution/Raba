@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/Raba/static/css/main.109884df.chunk.css",
-    "main.js": "/Raba/static/js/main.32cca91e.chunk.js",
-    "main.js.map": "/Raba/static/js/main.32cca91e.chunk.js.map",
+    "main.css": "/Raba/static/css/main.4fde8af6.chunk.css",
+    "main.js": "/Raba/static/js/main.cfa30564.chunk.js",
+    "main.js.map": "/Raba/static/js/main.cfa30564.chunk.js.map",
     "runtime-main.js": "/Raba/static/js/runtime-main.41eea883.js",
     "runtime-main.js.map": "/Raba/static/js/runtime-main.41eea883.js.map",
-    "static/js/2.00b0e63a.chunk.js": "/Raba/static/js/2.00b0e63a.chunk.js",
-    "static/js/2.00b0e63a.chunk.js.map": "/Raba/static/js/2.00b0e63a.chunk.js.map",
+    "static/js/2.e899d85e.chunk.js": "/Raba/static/js/2.e899d85e.chunk.js",
+    "static/js/2.e899d85e.chunk.js.map": "/Raba/static/js/2.e899d85e.chunk.js.map",
     "index.html": "/Raba/index.html",
-    "precache-manifest.733694e9c5918a80d8079889dacd18bb.js": "/Raba/precache-manifest.733694e9c5918a80d8079889dacd18bb.js",
+    "precache-manifest.10412380a28307425b58504c827d5d0c.js": "/Raba/precache-manifest.10412380a28307425b58504c827d5d0c.js",
     "service-worker.js": "/Raba/service-worker.js",
-    "static/css/main.109884df.chunk.css.map": "/Raba/static/css/main.109884df.chunk.css.map"
+    "static/css/main.4fde8af6.chunk.css.map": "/Raba/static/css/main.4fde8af6.chunk.css.map",
+    "static/media/App.css": "/Raba/static/media/gilroy-light-webfont.966bee11.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.41eea883.js",
-    "static/js/2.00b0e63a.chunk.js",
-    "static/css/main.109884df.chunk.css",
-    "static/js/main.32cca91e.chunk.js"
+    "static/js/2.e899d85e.chunk.js",
+    "static/css/main.4fde8af6.chunk.css",
+    "static/js/main.cfa30564.chunk.js"
   ]
 }
